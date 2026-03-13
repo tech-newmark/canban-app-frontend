@@ -12,7 +12,9 @@
 	background-color: #f4f5f7;
 }
 
-* {
+*,
+*::after,
+*::before {
 	box-sizing: border-box;
 }
 
